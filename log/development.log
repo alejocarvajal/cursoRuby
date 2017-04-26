@@ -150,3 +150,10 @@ puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
   Rendering c:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
   Rendered c:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.0ms)
   Rendered c:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (2708.8ms)
+Started GET "/" for ::1 at 2017-04-26 15:12:31 -0500
+Processing by SitioController#index as HTML
+  Rendering sitio/index.html.erb within layouts/application
+  Rendered sitio/index.html.erb within layouts/application (4.5ms)
+Completed 200 OK in 2297ms (Views: 2262.2ms | ActiveRecord: 0.0ms)
+
+
