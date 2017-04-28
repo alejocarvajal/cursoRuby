@@ -10,7 +10,9 @@
 
   <body>
     <%=render "layouts/header"%>
-    <%= yield %>
-    <%=render "sitio/footer"%>
+    <div class="container-fluid">
+      <%= yield %>
+      <%=render "sitio/footer"%>
+    </div>
   </body>
 </html>
