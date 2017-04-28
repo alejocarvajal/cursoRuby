@@ -614,3 +614,147 @@ Processing by SitioController#inicio as HTML
 Completed 200 OK in 12903ms (Views: 12830.8ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for ::1 at 2017-04-28 13:44:27 -0500
+Started GET "/" for ::1 at 2017-04-28 13:44:27 -0500
+Processing by SitioController#inicio as HTML
+Processing by SitioController#inicio as HTML
+  Rendering sitio/inicio.html.erb within layouts/application
+  Rendering sitio/inicio.html.erb within layouts/application
+  Rendered sitio/inicio.html.erb within layouts/application (10.7ms)
+  Rendered sitio/inicio.html.erb within layouts/application (7.0ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered sitio/_footer.html.erb (0.0ms)
+  Rendered sitio/_footer.html.erb (0.0ms)
+Completed 200 OK in 1293ms (Views: 1232.0ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 1283ms (Views: 1226.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/acerca" for ::1 at 2017-04-28 13:45:03 -0500
+Processing by SitioController#acerca as HTML
+  Rendering sitio/acerca.html.erb within layouts/application
+  Rendered sitio/acerca.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered sitio/_footer.html.erb (0.0ms)
+Completed 200 OK in 232ms (Views: 206.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-04-28 13:45:06 -0500
+Processing by SitioController#inicio as HTML
+  Rendering sitio/inicio.html.erb within layouts/application
+  Rendered sitio/inicio.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered sitio/_footer.html.erb (0.0ms)
+Completed 200 OK in 229ms (Views: 205.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/acerca" for ::1 at 2017-04-28 13:45:07 -0500
+Processing by SitioController#acerca as HTML
+  Rendering sitio/acerca.html.erb within layouts/application
+  Rendered sitio/acerca.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered sitio/_footer.html.erb (0.0ms)
+Completed 200 OK in 224ms (Views: 202.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-04-28 13:45:08 -0500
+Processing by SitioController#inicio as HTML
+  Rendering sitio/inicio.html.erb within layouts/application
+  Rendered sitio/inicio.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered sitio/_footer.html.erb (0.0ms)
+Completed 200 OK in 235ms (Views: 206.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-04-28 13:49:59 -0500
+Processing by SitioController#inicio as HTML
+  Rendering sitio/inicio.html.erb within layouts/application
+  Rendered sitio/inicio.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered sitio/_footer.html.erb (0.0ms)
+Completed 200 OK in 250ms (Views: 227.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-04-28 13:51:31 -0500
+Processing by SitioController#inicio as HTML
+  Rendering sitio/inicio.html.erb within layouts/application
+  Rendered sitio/inicio.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered sitio/_footer.html.erb (0.0ms)
+Completed 200 OK in 313ms (Views: 287.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-04-28 13:53:55 -0500
+Processing by SitioController#inicio as HTML
+  Rendering sitio/inicio.html.erb within layouts/application
+  Rendered sitio/inicio.html.erb within layouts/application (2.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered sitio/_footer.html.erb (1.0ms)
+Completed 200 OK in 422ms (Views: 383.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/acerca" for ::1 at 2017-04-28 13:53:58 -0500
+Processing by SitioController#acerca as HTML
+  Rendering sitio/acerca.html.erb within layouts/application
+  Rendered sitio/acerca.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered sitio/_footer.html.erb (1.0ms)
+Completed 200 OK in 245ms (Views: 224.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/acerca" for ::1 at 2017-04-28 13:58:50 -0500
+Processing by SitioController#acerca as HTML
+  Rendering sitio/acerca.html.erb within layouts/application
+  Rendered sitio/acerca.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered sitio/_footer.html.erb (0.0ms)
+Completed 200 OK in 472ms (Views: 423.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/acerca" for ::1 at 2017-04-28 13:58:54 -0500
+Processing by SitioController#acerca as HTML
+  Rendering sitio/acerca.html.erb within layouts/application
+  Rendered sitio/acerca.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered sitio/_footer.html.erb (1.0ms)
+Completed 200 OK in 241ms (Views: 220.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/acerca" for ::1 at 2017-04-28 14:00:32 -0500
+Processing by SitioController#acerca as HTML
+  Rendering sitio/acerca.html.erb within layouts/application
+  Rendered sitio/acerca.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered sitio/_footer.html.erb (0.0ms)
+Completed 200 OK in 226ms (Views: 202.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/acerca" for ::1 at 2017-04-28 14:01:31 -0500
+Processing by SitioController#acerca as HTML
+  Rendering sitio/acerca.html.erb within layouts/application
+  Rendered sitio/acerca.html.erb within layouts/application (1.5ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered sitio/_footer.html.erb (0.5ms)
+Completed 200 OK in 534ms (Views: 446.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/acerca" for ::1 at 2017-04-28 14:02:22 -0500
+Processing by SitioController#acerca as HTML
+  Rendering sitio/acerca.html.erb within layouts/application
+  Rendered sitio/acerca.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered sitio/_footer.html.erb (0.0ms)
+Completed 200 OK in 7673ms (Views: 7651.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/acerca" for ::1 at 2017-04-28 14:02:57 -0500
+Processing by SitioController#acerca as HTML
+  Rendering sitio/acerca.html.erb within layouts/application
+  Rendered sitio/acerca.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered sitio/_footer.html.erb (0.0ms)
+Completed 200 OK in 6867ms (Views: 6843.3ms | ActiveRecord: 0.0ms)
+
+
