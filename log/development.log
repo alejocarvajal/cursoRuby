@@ -758,3 +758,243 @@ Processing by SitioController#acerca as HTML
 Completed 200 OK in 6867ms (Views: 6843.3ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for ::1 at 2017-04-28 18:35:05 -0500
+Processing by SitioController#inicio as HTML
+  Rendering sitio/inicio.html.erb within layouts/application
+  Rendered sitio/inicio.html.erb within layouts/application (7.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered sitio/_footer.html.erb (0.0ms)
+Completed 200 OK in 5108ms (Views: 5084.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-04-28 19:08:31 -0500
+Processing by SitioController#inicio as HTML
+  Rendering sitio/inicio.html.erb within layouts/application
+  Rendered sitio/inicio.html.erb within layouts/application (2.5ms)
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered sitio/_footer.html.erb (0.5ms)
+Completed 200 OK in 699ms (Views: 619.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-04-28 19:09:04 -0500
+Processing by SitioController#inicio as HTML
+  Rendering sitio/inicio.html.erb within layouts/application
+  Rendered sitio/inicio.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered sitio/_footer.html.erb (0.0ms)
+Completed 200 OK in 160ms (Views: 149.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-04-28 19:09:19 -0500
+Processing by SitioController#inicio as HTML
+  Rendering sitio/inicio.html.erb within layouts/application
+  Rendered sitio/inicio.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered sitio/_footer.html.erb (1.0ms)
+Completed 200 OK in 160ms (Views: 150.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-04-28 19:10:04 -0500
+Processing by SitioController#inicio as HTML
+  Rendering sitio/inicio.html.erb within layouts/application
+  Rendered sitio/inicio.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered sitio/_footer.html.erb (0.5ms)
+Completed 200 OK in 370ms (Views: 355.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-04-28 19:10:33 -0500
+Processing by SitioController#inicio as HTML
+  Rendering sitio/inicio.html.erb within layouts/application
+  Rendered sitio/inicio.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered sitio/_footer.html.erb (1.0ms)
+Completed 200 OK in 365ms (Views: 352.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/acerca" for ::1 at 2017-04-28 19:10:35 -0500
+Processing by SitioController#acerca as HTML
+  Rendering sitio/acerca.html.erb within layouts/application
+  Rendered sitio/acerca.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered sitio/_footer.html.erb (1.0ms)
+Completed 200 OK in 139ms (Views: 128.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-04-28 19:10:36 -0500
+Processing by SitioController#inicio as HTML
+  Rendering sitio/inicio.html.erb within layouts/application
+  Rendered sitio/inicio.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered sitio/_footer.html.erb (0.0ms)
+Completed 200 OK in 141ms (Views: 131.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-04-28 19:16:28 -0500
+Processing by SitioController#inicio as HTML
+  Rendering sitio/inicio.html.erb within layouts/application
+  Rendered sitio/inicio.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered sitio/_footer.html.erb (1.0ms)
+Completed 200 OK in 259ms (Views: 239.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-04-28 19:17:25 -0500
+Processing by SitioController#inicio as HTML
+  Rendering sitio/inicio.html.erb within layouts/application
+  Rendered sitio/inicio.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered sitio/_footer.html.erb (0.5ms)
+Completed 200 OK in 143ms (Views: 131.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-04-28 19:19:25 -0500
+Processing by SitioController#inicio as HTML
+  Rendering sitio/inicio.html.erb within layouts/application
+  Rendered sitio/inicio.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered sitio/_footer.html.erb (0.5ms)
+Completed 200 OK in 4906ms (Views: 4895.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-04-28 19:22:45 -0500
+Processing by SitioController#inicio as HTML
+  Rendering sitio/inicio.html.erb within layouts/application
+  Rendered sitio/inicio.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered sitio/_footer.html.erb (1.0ms)
+Completed 200 OK in 150ms (Views: 138.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-04-28 19:24:13 -0500
+Processing by SitioController#inicio as HTML
+  Rendering sitio/inicio.html.erb within layouts/application
+  Rendered sitio/inicio.html.erb within layouts/application (0.5ms)
+Completed 500 Internal Server Error in 63ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (c:/Sites/cursoRuby/app/views/sitio/inicio.html.erb:14: syntax error, unexpected =>
+..._to "Registrarse", "#", class=> "btn btn-primary btn-lg");@o...
+...                               ^):
+  
+app/views/sitio/inicio.html.erb:14: syntax error, unexpected =>
+  Rendering c:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering c:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered c:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (3.5ms)
+  Rendering c:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered c:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.5ms)
+  Rendering c:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered c:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (914.0ms)
+Started GET "/" for ::1 at 2017-04-28 19:25:05 -0500
+Processing by SitioController#inicio as HTML
+  Rendering sitio/inicio.html.erb within layouts/application
+  Rendered sitio/inicio.html.erb within layouts/application (1.0ms)
+Completed 500 Internal Server Error in 47ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (c:/Sites/cursoRuby/app/views/sitio/inicio.html.erb:14: syntax error, unexpected =>
+..._to "Registrarse", "#", class=> 'btn btn-primary btn-lg' );@...
+...                               ^):
+  
+app/views/sitio/inicio.html.erb:14: syntax error, unexpected =>
+  Rendering c:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering c:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered c:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (4.0ms)
+  Rendering c:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered c:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.5ms)
+  Rendering c:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered c:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered c:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (798.7ms)
+Started GET "/" for ::1 at 2017-04-28 19:25:32 -0500
+Processing by SitioController#inicio as HTML
+  Rendering sitio/inicio.html.erb within layouts/application
+  Rendered sitio/inicio.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered sitio/_footer.html.erb (0.5ms)
+Completed 200 OK in 157ms (Views: 146.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-04-28 19:27:54 -0500
+Processing by SitioController#inicio as HTML
+  Rendering sitio/inicio.html.erb within layouts/application
+  Rendered sitio/inicio.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered sitio/_footer.html.erb (0.0ms)
+Completed 200 OK in 3571ms (Views: 3546.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-04-28 19:28:22 -0500
+Processing by SitioController#inicio as HTML
+  Rendering sitio/inicio.html.erb within layouts/application
+  Rendered sitio/inicio.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered sitio/_footer.html.erb (1.0ms)
+Completed 200 OK in 171ms (Views: 148.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-04-28 19:32:52 -0500
+Processing by SitioController#inicio as HTML
+  Rendering sitio/inicio.html.erb within layouts/application
+  Rendered sitio/inicio.html.erb within layouts/application (0.5ms)
+Completed 500 Internal Server Error in 142ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Invalid CSS after "...ar-default-line": expected ":", was "@import "bootst..."):
+    4:     <title>CursoRuby</title>
+    5:     <%= csrf_meta_tags %>
+    6: 
+    7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:   </head>
+   10: 
+  
+app/assets/stylesheets/estilos.css.scss:5
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb___813119986_89031360'
+  Rendering c:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering c:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered c:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (5.0ms)
+  Rendering c:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered c:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.0ms)
+  Rendering c:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered c:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.5ms)
+  Rendered c:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (808.0ms)
+Started GET "/" for ::1 at 2017-04-28 19:33:18 -0500
+Processing by SitioController#inicio as HTML
+  Rendering sitio/inicio.html.erb within layouts/application
+  Rendered sitio/inicio.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered sitio/_footer.html.erb (0.0ms)
+Completed 200 OK in 3503ms (Views: 3483.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-04-28 19:36:08 -0500
+Processing by SitioController#inicio as HTML
+  Rendering sitio/inicio.html.erb within layouts/application
+  Rendered sitio/inicio.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered sitio/_footer.html.erb (1.0ms)
+Completed 200 OK in 3592ms (Views: 3572.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-04-28 19:36:59 -0500
+Processing by SitioController#inicio as HTML
+  Rendering sitio/inicio.html.erb within layouts/application
+  Rendered sitio/inicio.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_header.html.erb (0.0ms)
+  Rendered sitio/_footer.html.erb (0.0ms)
+Completed 200 OK in 3542ms (Views: 3531.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-04-28 19:38:03 -0500
+Processing by SitioController#inicio as HTML
+  Rendering sitio/inicio.html.erb within layouts/application
+  Rendered sitio/inicio.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_header.html.erb (1.0ms)
+  Rendered sitio/_footer.html.erb (0.5ms)
+Completed 200 OK in 155ms (Views: 143.4ms | ActiveRecord: 0.0ms)
+
+
